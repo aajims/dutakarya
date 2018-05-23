@@ -1,0 +1,315 @@
+<!doctype html>
+  <html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Riiot Labs">
+  <link rel="canonical" href="http://www.riiotlabs.com/en/home">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta property="og:type" content="" />
+<meta property="og:title" content="" />
+<meta property="og:image" content="" />
+<meta property="og:site_name" content="" />
+<meta property="og:description" content="" />
+  <meta name="twitter:card" content="" />
+<meta name="twitter:site" content="" />
+<meta name="twitter:creator" content="" />
+<meta name="twitter:title" content="" />
+<meta name="twitter:description" content="" />
+<meta name="twitter:image:src" content="" />
+  <title>Full Stack Developer (m/f) - Riiot Labs</title>
+  <link rel="stylesheet" href="http://www.riiotlabs.com/files/templates/riiot/public/css/main.css" />
+  <script type="application/javascript" src="http://www.riiotlabs.com/files/templates/riiot/public/js/modernizr.js"></script>
+  
+</head>
+
+<body class="lang-en">
+    
+  <div class="wrapper" data-smooth-scroll='{"speed": 1, "ease": 0.08, "fixed": true}'>
+      
+<header class="site-header js-app-header">
+  <div class="site-header__wrapper">
+    <h1 class="site-title">
+      <a href="http://www.riiotlabs.com/" class="site-title__logo" data-internal-link>
+        <span class="u-visually-hidden">Riiot Labs</span>
+
+          <!--[if gte IE 9]><!-->
+  <svg width="47" height="42" class="icon-riiot-labs">
+    <use xlink:href="/files/templates/riiot/public/icons/spritesheet.svg#icon-riiot-labs"></use>
+  </svg>
+  <!--<![endif]-->
+
+      </a>
+    </h1>
+
+    
+<nav class="site-navigation" role="navigation">
+  <ul class="site-navigation__list">
+          <li class="site-navigation__item site-navigation__item--blue ">
+        <a href="http://www.riiotlabs.com/" data-internal-link>
+          <i>blue</i>
+        </a>
+      </li>
+          <li class="site-navigation__item  ">
+        <a href="https://store.riiotlabs.com/shop/product/1101-blue-by-riiot-5" target="_blank">
+          Buy
+        </a>
+      </li>
+          <li class="site-navigation__item  ">
+        <a href="http://www.riiotlabs.com/en/reseller" data-internal-link>
+          Reseller
+        </a>
+      </li>
+          <li class="site-navigation__item  ">
+        <a href="http://www.riiotlabs.com/en/faq" data-internal-link>
+          FAQ
+        </a>
+      </li>
+          <li class="site-navigation__item  ">
+        <a href="http://www.riiotlabs.com/en/press" data-internal-link>
+          Press
+        </a>
+      </li>
+          <li class="site-navigation__item  ">
+        <a href="http://www.riiotlabs.com/en/about-us" data-internal-link>
+          About us
+        </a>
+      </li>
+          <li class="site-navigation__item  ">
+        <a href="http://www.riiotlabs.com/en/contact" data-internal-link>
+          Contact
+        </a>
+      </li>
+        <li class="site-navigation__item site-navigation__item--languages has-dropdown">
+      <a href="http://www.riiotlabs.com/en/jobs-1/full-stack-developer-m-f-1" data-toggle-dropdown role="button" aria-haspopup="true" aria-expanded="false">
+        EN   <!--[if gte IE 9]><!-->
+  <svg width="10" height="18" class="icon-caret-down">
+    <use xlink:href="/files/templates/riiot/public/icons/spritesheet.svg#icon-caret-down"></use>
+  </svg>
+  <!--<![endif]-->
+
+      </a>
+      <ul class="site-navigation__dropdown">
+                  <li class="site-navigation__item"><a href="http://www.riiotlabs.com/fr/jobs/full-stack-developer-m-f">FR</a></li>
+              </ul>
+    </li>
+  </ul>
+</nav>
+
+<button type="button" class="site-navigation-trigger" data-navigation-trigger>
+  <span class="site-navigation-trigger__wrapper">
+    <i class="site-navigation-trigger__line site-navigation-trigger__line--1"></i>
+    <i class="site-navigation-trigger__line site-navigation-trigger__line--2"></i>
+    <i class="site-navigation-trigger__line site-navigation-trigger__line--3"></i>
+  </span>
+</button>
+
+  </div>
+</header>
+
+      
+<main role="main" class="js-app-container" data-view="jobs">
+  <article class="content content--jobs">
+    <header class="content-header">
+      <div class="content-header__wrapper">
+        <h1>Full Stack Developer (m/f)</h1>
+      </div>
+    </header>
+
+    <div class="content-body">
+      <div class="content-body__wrapper">
+        <div class="row row--reverse">
+          <div class="column large-8 medium-12 small-12 jobs-detail typeset">
+            <p class="highlight">Riiot Labs recrute un  Full Stack Developer (m/f)</p>
+            <p>Riiot Labs S.A. développe des solutions « Internet des Objets » et lance actuellement ses premiers produits : blue et blue-pro by Riiot, des analyseurs de piscines intelligents et disruptifs (objet connecté et solution SaaS). Ils bénéficient d’un enthousiasme fort sur le marché de la vente et de l’entretien des bassins privés comme publics soit plus de 10.000.000 d’unités en France et aux USA. </p>
+<h2>Mission et responsabilités</h2>
+<p>En contact direct avec le CEO &amp; le CTO, vous êtes au cœur du développement des solutions IT de Riiot Labs :</p>
+<ul>
+<li>Conception technique et fonctionnelle </li>
+<li>Participation aux choix techniques d'architecture et d'infrastructure </li>
+<li>Développement des éléments front-end et back-end</li>
+<li>Implémentation des tests unitaires et d’intégration</li>
+<li>Elaboration de la documentation technique.</li>
+</ul>
+<h2>Profil recherché</h2>
+<ul>
+<li>Vous avez une formation en sciences de l’informatique (de BAC+3 à Master)</li>
+<li>Vous avez une expérience de min. 2 ans dans une fonction similaire</li>
+<li>Apprendre de nouveaux langages/outils ne vous fait pas peur, au contraire vous adorez</li>
+<li>Stack technique : AWS Lambda, (No)SQL, React-JS, Semantic-UI, iOS, Androïd</li>
+<li>Environnement : Rest, Scrum, Gulp, GIT, Travis, Jira</li>
+<li>Langages : Javascript, Python, Java, Objective-C, Swift, C.</li>
+<li>Langues : Français, Anglais</li>
+</ul>
+<h2>Offre</h2>
+<ul>
+<li>Contrat à durée indéterminée</li>
+<li>Possibilité de contribuer directement à une croissance à 2 ou 3 chiffres</li>
+<li>Poste stimulant dans une startup bénéficiant d’un Seed Capital et d’un réseau de grande qualité (The Faktory), une atmosphère professionnelle et des conditions de travail agréables, un cadre intègre et de grande confiance.</li>
+<li>Encadrement et formation continue, tout en bénéficiant de réelles responsabilités et d’une grande autonomie</li>
+<li>Rémunération et avantages liés à votre niveau de compétences</li>
+</ul>
+<p> </p>
+<p>Pour postuler, envoyez-nous votre CV + vos profils LinkedIn et GitHub à : <a href="mailto:jobs@riiotlabs.com">jobs@riiotlabs.com</a></p>
+          </div>
+
+          <div class="column large-4 medium-12 small-12">
+            <aside class="jobs-aside">
+              <h2 class="u-visually-hidden">Jobs - Aside</h2>
+              <ul class="jobs-infos">
+                <li>
+                  <span class="title">  <!--[if gte IE 9]><!-->
+  <svg width="8" height="9" class="icon-status">
+    <use xlink:href="/files/templates/riiot/public/icons/spritesheet.svg#icon-status"></use>
+  </svg>
+  <!--<![endif]-->
+ Status</span>
+                  <span class="text">Ouvert</span>
+                </li>
+                
+                <li>
+                  <span class="title">  <!--[if gte IE 9]><!-->
+  <svg width="9" height="9" class="icon-type">
+    <use xlink:href="/files/templates/riiot/public/icons/spritesheet.svg#icon-type"></use>
+  </svg>
+  <!--<![endif]-->
+ Type</span>
+                  <span class="text">CDI</span>
+                </li>
+                
+                <li>
+                  <span class="title">  <!--[if gte IE 9]><!-->
+  <svg width="10" height="9" class="icon-work">
+    <use xlink:href="/files/templates/riiot/public/icons/spritesheet.svg#icon-work"></use>
+  </svg>
+  <!--<![endif]-->
+ Work experience</span>
+                  <span class="text">Min. 2 ans</span>
+                </li>
+                
+                <li>
+                  <span class="title">  <!--[if gte IE 9]><!-->
+  <svg width="7" height="9" class="icon-location">
+    <use xlink:href="/files/templates/riiot/public/icons/spritesheet.svg#icon-location"></use>
+  </svg>
+  <!--<![endif]-->
+ Location</span>
+                  <span class="text">Liège, Belgium</span>
+                </li>
+                              </ul>
+            </aside>
+            
+            <a href="http://www.riiotlabs.com/en/contact" class="jobs-apply button button--expand u-text-center" data-internal-link>Apply for this job</a>
+                      </div>
+        </div>
+      </div>
+    </div>
+  </article>
+</main>
+
+      
+<footer class="site-footer js-app-footer">
+  <div class="site-footer__wrapper">
+    <form method="post" action="http://www.riiotlabs.com/service/riiot/subscribe?lng=en" class="site-newsletter" id="newsletter">
+      <label for="email">Get in touch</label>
+      <input type="text" id="email" name="Newsletter_email" value="" placeholder="Enter your email address" />
+      <button type="submit" class="button">Get notified</button>
+      <svg class="site-newsletter__loading"><circle></circle></svg>
+    </form>
+
+    <div class="row">
+      <div class="column large-3">
+    <!--[if gte IE 9]><!-->
+  <svg width="131" height="186" class="icon-riiot-lab-footer">
+    <use xlink:href="/files/templates/riiot/public/icons/spritesheet.svg#icon-riiot-lab-footer"></use>
+  </svg>
+  <!--<![endif]-->
+
+</div>
+<div class="column large-2 medium-6 small-12">
+  <nav class="site-footer__menu">
+    <h3>Company</h3>
+    <ul>
+            <li><a href="http://www.riiotlabs.com/en/about-us" data-internal-link>About us</a></li>
+            <li><a href="http://www.riiotlabs.com/en/jobs" data-internal-link>Jobs</a></li>
+          </ul>
+  </nav>
+</div>
+<div class="column large-2 medium-6 small-12">
+  <nav class="site-footer__menu">
+    <h3>Products</h3>
+    <ul>
+            <li><a href="http://riiotlabs.com/en/home" target="_blank">Blue</a></li>
+            <li><a href="http://www.riiotlabs.com/en/faq" data-internal-link>FAQ</a></li>
+            <li><a href="http://riiotlabs.com/en/contact?subject=2#contact-form" target="_blank">Support</a></li>
+          </ul>
+  </nav>
+</div>
+<div class="column large-3 medium-6 small-12">
+  <nav class="site-footer__menu">
+    <h3>Business</h3>
+    <ul>
+            <li><a href="http://riiotlabs.com/en/contact?subject=3#contact-form" target="_blank">Become a distributor</a></li>
+          </ul>
+  </nav>
+</div>
+<div class="column large-2 medium-6 small-12">
+  <nav class="site-footer__menu follow-up">
+    <h3>Follow up</h3>
+    <ul>
+                  <li><a href="https://twitter.com/riiotlabs" target="_blank">  <!--[if gte IE 9]><!-->
+  <svg width="15" height="12" class="icon-twitter">
+    <use xlink:href="/files/templates/riiot/public/icons/spritesheet.svg#icon-twitter"></use>
+  </svg>
+  <!--<![endif]-->
+ <span class="follow-up__label">Twitter</span></a></li>
+                  <li><a href="https://www.facebook.com/riiotlabs" target="_blank">  <!--[if gte IE 9]><!-->
+  <svg width="10" height="18" class="icon-facebook">
+    <use xlink:href="/files/templates/riiot/public/icons/spritesheet.svg#icon-facebook"></use>
+  </svg>
+  <!--<![endif]-->
+ <span class="follow-up__label">Facebook</span></a></li>
+                  <li><a href="https://www.linkedin.com/company/riiot-labs" target="_blank">  <!--[if gte IE 9]><!-->
+  <svg width="15" height="14" class="icon-linkedin">
+    <use xlink:href="/files/templates/riiot/public/icons/spritesheet.svg#icon-linkedin"></use>
+  </svg>
+  <!--<![endif]-->
+ <span class="follow-up__label">Linkedin</span></a></li>
+          </ul>
+  </nav>
+</div>
+
+    </div>
+
+    <div class="site-copyright">
+      <ul>
+  <li>© 2016 Riiot Labs SA</li>
+    <li><a href="https://s3-eu-west-1.amazonaws.com/riiotlabs/legal/RiiotLabs-termsofuse.pdf" target="_blank">Terms of use</a></li>
+    <li><a href="https://s3-eu-west-1.amazonaws.com/riiotlabs/legal/RiiotLabs%E2%80%93PrivacyPolicy.pdf" target="_blank">Privacy Policy</a></li>
+  </ul>
+
+      <a href="http://www.dogstudio.be" target="_blank">  <!--[if gte IE 9]><!-->
+  <svg width="30" height="36" class="icon-dogstudio">
+    <use xlink:href="/files/templates/riiot/public/icons/spritesheet.svg#icon-dogstudio"></use>
+  </svg>
+  <!--<![endif]-->
+</a>
+    </div>
+  </div>
+</footer>
+
+  </div>
+    <script type="application/javascript" src="http://www.riiotlabs.com/files/templates/riiot/public/js/main.js"></script>
+
+<script>
+  (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+  function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+  e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+  e.src='https://www.google-analytics.com/analytics.js';
+  r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+  ga('create','UA-71052722-1','auto');ga('send','pageview');
+</script>
+
+
+</body>
+</html>
